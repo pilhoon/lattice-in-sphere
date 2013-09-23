@@ -17,6 +17,7 @@
 // 620.3499012654068565098; 1000003353
 // 620.3499012654068565098; 1000003353
 //
+// ref: http://eprints.maths.ox.ac.uk/174/1/sphere.pdf
 
 #include <stdio.h>
 #include <math.h>
